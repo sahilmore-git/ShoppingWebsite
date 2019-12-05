@@ -1,4 +1,2 @@
 node_modules
-config/dev
-dev
-dev.env
+config/dev.env
