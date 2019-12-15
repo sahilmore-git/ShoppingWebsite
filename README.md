@@ -30,13 +30,16 @@ It has an API named as Tawk which helps to take the feedback about any issues fa
 2. Editor.
 
 ### Screenshots
-
+#### Dashboard
 ![4](https://user-images.githubusercontent.com/46355027/70861436-eac8db80-1f53-11ea-8e0f-37d1141c024c.png)
+#### SignUp
 ![1](https://user-images.githubusercontent.com/46355027/70861433-ea304500-1f53-11ea-832d-e0a016dc7198.png)
+#### SignIn
 ![2](https://user-images.githubusercontent.com/46355027/70861434-ea304500-1f53-11ea-8a00-9f8577355aec.png)
+#### Products
 ![3](https://user-images.githubusercontent.com/46355027/70861435-ea304500-1f53-11ea-9621-e1d2ea6e8ef5.png)
-Tawk API
+#### Tawk API
 ![5](https://user-images.githubusercontent.com/46355027/70861437-eac8db80-1f53-11ea-925e-0846adf01402.png)
-Insta Mojo Payement API
+#### Insta Mojo Payement API
 ![b](https://user-images.githubusercontent.com/46355027/70861438-eac8db80-1f53-11ea-8978-b7ac3a8f4bd3.png)
 ![c](https://user-images.githubusercontent.com/46355027/70861439-eac8db80-1f53-11ea-8433-57c4fc00ebb5.png)
